@@ -40,7 +40,11 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](./images/img1.png)
+![output](./images/img2.png)
+![output](./images/img3.png)
+![output](./images/img4.png)
+
 
 ## Result:
 
